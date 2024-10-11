@@ -1,6 +1,14 @@
-# React + Vite
+# Brainwave - A Modern Website UI/UX AI 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+## Getting started
+
+To get started with this project, run
+
+```bash
+  git clone https://github.com/HikmalFadlan/casecobra.git
+```
 
 Currently, two official plugins are available:
 
