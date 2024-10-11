@@ -1,4 +1,4 @@
-# Brainwave - A Modern Website UI/UX AI 
+# Brainwave - A Modern Website UI/UX
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
